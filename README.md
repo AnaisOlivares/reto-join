@@ -1,6 +1,7 @@
 # Joinnus
 Se realiza propuesta con el fin de dar un valor al servicio de adquisición entradas para el teatro de la manera más accesible y sin problemas.
-![desktop](https://user-images.githubusercontent.com/32303418/38186725-efd3466c-3619-11e8-8789-cccaef4d97fd.jpg)
+
+![desktop](https://user-images.githubusercontent.com/32303418/38189884-8676da04-3627-11e8-962b-a33b8f601093.jpg)
 
 
 ## Desarrollado para
@@ -44,3 +45,8 @@ Donde se concluye un flujo que incluye:
 ## 3. User personas
 
 ![untitled 1](https://user-images.githubusercontent.com/32303418/38188491-d4b1e700-3621-11e8-8d63-6170c8618d59.jpg)
+
+
+### Del Resultado
+
+[Mira el demo en Marvel aquí](https://marvelapp.com/project/2862957/)
