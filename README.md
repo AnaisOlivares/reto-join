@@ -44,11 +44,11 @@ Donde se concluye un flujo que incluye:
 
 ##  Análisis Benchmarking:
 
-| Aplicación | Reservar Entradas | Comprar Entradas Online | Adaptable a Cualquier Dispositivos | Elegir asientos | Registro de usuario | Varios métodos de pago | Control de acceso seguro | Evita largas colas | Adaptarse a cualquier recinto |
+| Aplicación | Reservar Entradas | Comprar Entradas Online | Adaptable a Cualquier Dispositivos | Elegir asientos | Registro de usuario | Métodos de Pago | Acceso Seguro |
 |:----------:|:-----------------:|:-----------------------:|:--------------------------------:|:---------------:|:-------------------:|:----------------------:|:------------------------:|:------------------:|:--------------------------------:|:---------------------------:|
-|**Teleticket**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|NO|
-|**Tu Entrada**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|
-|**Atrapalo.pe**|**SÍ**|**SÍ**|**SÍ**|NO|**SÍ**|**SÍ**|**SÍ**|**SÍ**|NO|
+|**Teleticket**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|
+|**Tu Entrada**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|
+|**Cineplanet**|**SÍ**|**NO**|**SÍ**|SÍ|**SÍ**|**SÍ**|**SÍ**
 
 
 ## 3. User personas
@@ -61,3 +61,11 @@ Donde se concluye un flujo que incluye:
 [Mira el demo en Marvel aquí](https://marvelapp.com/3bj351e)
 
 ![desktop](https://user-images.githubusercontent.com/32303418/38189884-8676da04-3627-11e8-962b-a33b8f601093.jpg)
+
+##### DEBRIEFING
+
+Cuál será el siguiente paso:
+
+_a.¿Mejorar el prototipo para hacer nuevas pruebas?_
+
+_b.¿Crear un nuevo prototipo?_
